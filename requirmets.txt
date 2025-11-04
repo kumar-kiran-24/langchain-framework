@@ -1,0 +1,11 @@
+langchain
+python-dotenv
+langchain_community
+bs4
+pypdf
+pymupdf
+wikipedia
+langchain-text-splitters
+langchain-openai
+sentence-transfomers
+langchain_huggingface
